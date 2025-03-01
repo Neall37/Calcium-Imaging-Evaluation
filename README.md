@@ -19,7 +19,7 @@ Extracting a single line across frames allows for easy observation of temporal v
 
 ## How To Use
 
-1. **Edit the file path:** Open `eval.py` and replace `[YourFileName]` with the path to your own file.  
+1. **Edit the file path:** Download `eval.py` and replace `[YourFileName]` in it with the path to your own file.  
 2. **Run the script:** Execute the following command in your terminal:  
 
    ```bash

@@ -7,7 +7,7 @@ By extracting and visualizing the pixel intensity values from lines across all f
 An example single frame from a calcium imaging video:
 
 <p align="center">
-  <img src="images/first_frame.png" style="max-width: 500px; width: 70%;" alt="Extracted Line Image">
+  <img src="images/first_frame.png" style="max-width: 300px; width: 50%;" alt="Extracted Line Image">
 </p>
 
 

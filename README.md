@@ -1,5 +1,5 @@
 # Calcium-Imaging-Evaluation
-An quick approach to evaluate your calcium imaging result
+An quick approach to evaluate the quality of your calcium imaging result
 
 ## Example:
 An example single frame from a calcium imaging video:

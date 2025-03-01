@@ -16,3 +16,13 @@ Extracting a single line across frames allows for easy observation of temporal v
 <p align="center">
   <img src="images/extracted_line.png" width="1000" height="500" alt="Image text">
 </p>
+
+## How To Use
+
+1. **Edit the file path:** Open `eval.py` and replace `[YourFileName]` with the path to your own file.  
+2. **Run the script:** Execute the following command in your terminal:  
+
+   ```bash
+   python eval.py
+   ``` 
+

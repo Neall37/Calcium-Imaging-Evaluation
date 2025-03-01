@@ -14,7 +14,7 @@ An example single frame from a calcium imaging video:
 Extracting a single line across frames allows for easy observation of temporal variations in the video, such as drift, contrast changes, neuron firing, and overall image quality:
 
 <p align="center">
-  <img src="images/extracted_line.png" width="1000" height="500" alt="Image text">
+  <img src="images/extracted_line.png" style="max-width: 1000px; width: 100%;" alt="Extracted Line Image">
 </p>
 
 ## How To Use
